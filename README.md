@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<style> 
-  .wkwk {
-    color: red; 
-  }
-</style>
-<h3 classs="wkwk">trial</h3>
-
 #### 📱 my android studio code [here](https://github.com/fmhrs/android-studio-code)
 1. [Data Binding](https://github.com/fmhrs/android-studio-code/tree/master/view%20binding) Android Studio 4.1 : **Activity**, **Fragment** & **RV.Adapter**.
 2. [Restful API](https://github.com/fmhrs/android-studio-code/tree/master/retrofit2%20%26%20interceptor%20okhttp3) menggunakan **Retrofit2** dan **Interceptor OkHttp3**.
