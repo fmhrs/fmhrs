@@ -7,6 +7,11 @@
 4. [Fragment](https://github.com/fmhrs/android-studio-code/tree/master/fragment) replace view pada attribute xml **FrameLayout**.
 5. [Simple List View](https://github.com/fmhrs/android-studio-code/tree/master/simple%20list%20view) mengubah kumpulan data atau **Array** string menjadi bentuk list dalam **View-Android**.
 6. [Intent](https://github.com/fmhrs/android-studio-code/tree/master/intent) berpindah dari satu **activity** ke target yang diinginkan.
+7. [Recycler View](https://github.com/fmhrs/android-studio-code/tree/master/recycler%20view) custom listview
+
+
+
+
 
 <!--
 **fmhrs/fmhrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
