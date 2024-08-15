@@ -1,4 +1,5 @@
-### Hi there 👋
+### Selamat datang di fathman 👋
+Perkenalkan saya fuad mahrus fathoni, saya seorang fullstack developer yang mempunyai pengalaman dalam membangun custom-built website dan android.
 
 #### 📱 my android studio code [here](https://github.com/fmhrs/android-studio-code)
 1. [Data Binding](https://github.com/fmhrs/android-studio-code/tree/master/view%20binding) Android Studio 4.1 : **Activity**, **Fragment** & **RV.Adapter**.
