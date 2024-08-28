@@ -9,8 +9,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Code Igniter" src="https://img.shields.io/badge/codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />  
 **Mobile Skills** : 
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-239b56?style=flat-square&logo=android-studio&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-cb4335?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-452661?style=flat-square&logo=mqtt&logoColor=white" />
 
