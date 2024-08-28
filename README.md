@@ -1,4 +1,4 @@
-### Selamat datang di fathman 👋
+### Selamat datang di fmhrs 👋
 Perkenalkan saya fuad mahrus fathoni, saya seorang fullstack developer yang mempunyai pengalaman dalam membangun custom-built website dan android.
 
 #### 📱 my android studio code [here](https://github.com/fmhrs/android-studio-code)
