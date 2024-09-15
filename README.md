@@ -14,7 +14,7 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-452661?style=flat-square&logo=mqtt&logoColor=white" />
 
-Check list of **custom-built websites** and **android apps** project on : [<img alt="Github Page" src="https://img.shields.io/badge/Github_Pages-000?style=flat-square&logo=github&logoColor=white"/>](https://fmhrs.github.io/public)
+### Check [GITHUB PAGES HERE <img alt="Github Page" src="https://img.shields.io/badge/pages-000?style=flat-square&logo=github&logoColor=white"/>](https://fmhrs.github.io/public)
 
 
 ## 📱 my old basic android studio skill :> [here](https://github.com/fmhrs/android-studio-code)
