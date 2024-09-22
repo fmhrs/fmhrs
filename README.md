@@ -1,20 +1,25 @@
 ## My Profile
-**Fullname** : fuad mahrus fathoni (aka : thoni 👦)  
-**jobs** : fullstack developer 💻  
-**Web Skills**  :
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Code Igniter" src="https://img.shields.io/badge/codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />  
-**Mobile Skills** : 
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-239b56?style=flat-square&logo=android-studio&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-cb4335?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-452661?style=flat-square&logo=mqtt&logoColor=white" />
+**Fullname** : fuad mahrus fathoni - thoni 👦  
+**JOBS** : Sofware Enginner 💻  
+  
 
-### Check [GITHUB PAGES HERE <img alt="Github Page" src="https://img.shields.io/badge/pages-000?style=flat-square&logo=github&logoColor=white"/>](https://fmhrs.github.io/public)
+**Web Skills**  :
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=plastic&logo=javascript&logoColor=black" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=plastic&logo=javascript&logoColor=white" />
+  <img alt="Code Igniter" src="https://img.shields.io/badge/codeigniter-EF4223?style=plastic&logo=codeigniter&logoColor=white" />
+  <img alt="MySql" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />  
+**Mobile Skills** : 
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-239b56?style=plastic&logo=android-studio&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-cb4335?style=plastic&logo=openjdk&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white" />
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-452661?style=plastic&logo=mqtt&logoColor=white" />  
+**TOOLS** : VS Code, Post Man, Heidi SQL, Android Studio, XAMPP
+
+
+### Check [GITHUB PAGES HERE <img alt="Github Page" src="https://img.shields.io/badge/pages-000?style=plastic&logo=github&logoColor=white"/>](https://fmhrs.github.io/public)
 
 
 ## 📱 my old basic android studio skill :> [here](https://github.com/fmhrs/android-studio-code)
