@@ -27,7 +27,7 @@ Under Construction
 ## [Next JS 🔺](https://github.com/fmhrs/DOCS-NEXT-JS) 
 Under Construction
 
-## Code Igniter 🔥
+## [Code Igniter 🔥](https://github.com/fmhrs/DOCS-Laravel)
 Under Construction
 
 ## [Android Studio 📱](https://github.com/fmhrs/DOCS-Android-Studio)
