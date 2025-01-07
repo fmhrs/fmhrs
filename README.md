@@ -18,17 +18,7 @@
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-452661?style=plastic&logo=mqtt&logoColor=white" />  
 **TOOLS** : VS Code, Post Man, Heidi SQL, Android Studio, XAMPP
 
-
-### [GITHUB PAGES <img alt="Github Page" src="https://img.shields.io/badge/pages-000?style=plastic&logo=github&logoColor=white"/>](https://fmhrs.github.io/public)
-
-## Basic Website 🌎
-Under Construction
-
-## [Next JS 🔺](https://github.com/fmhrs/DOCS-NEXT-JS) 
-Under Construction
-
-## [Code Igniter 🔥](https://github.com/fmhrs/DOCS-Laravel)
-Under Construction
+### About Me: [fmhrs.github.io/public <img alt="Github Page" src="https://img.shields.io/badge/pages-000?style=plastic&logo=github&logoColor=white"/>](https://fmhrs.github.io/public)
 
 ## [Android Studio 📱](https://github.com/fmhrs/DOCS-Android-Studio)
 ### [Full Documentation](https://github.com/fmhrs/DOCS-Android-Studio)
